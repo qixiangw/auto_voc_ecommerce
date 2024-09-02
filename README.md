@@ -1,0 +1,1 @@
+![architect](./resources/auto_voc_ecommerce.jpeg)
